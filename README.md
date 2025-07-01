@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python 
 - 🌱 I’m currently learning BTech CSE AI/ML
 - 💞️ I’m looking to collaborate on projects related to Python and C#
-- 📫 https://www.linkedin.com/in/suhani-gupta-3b1377325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 📫 https://www.linkedin.com/in/suhani-gupta-3b1377325/
 - 😄 Pronouns: she/ her
 - ⚡ Fun fact: I'm a night owl as well as early bird
 
