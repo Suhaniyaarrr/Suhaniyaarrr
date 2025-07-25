@@ -1,7 +1,7 @@
 <!-- HEADER with banner -->
 <p align="center">
   <!-- Replace the below URL with your actual banner hosted in the repo or on imgur -->
-  <img src="https://raw.githubusercontent.com/Suhaniyaarrr/Suhaniyaarrr/main/assets/banner.png" alt="banner" width="100%" />
+  <img src="https://i.postimg.cc/gjkRv1W5/Suhani-Gupta.png" />
 </p>
 
 <h1 align="center">
