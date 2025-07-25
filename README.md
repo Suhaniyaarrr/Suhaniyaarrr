@@ -1,60 +1,87 @@
-<!-- Header with Banner -->
+<!-- HEADER with banner -->
 <p align="center">
-  <img src="./a9b8777a-a358-41a7-a772-3c8ba5721470.png" alt="banner" width="100%" />
+  <img src="https://github.com/Suhaniyaarrr/Suhaniyaarrr/assets/your-banner-image" alt="banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there, I'm Suhani Gupta 👋</h1>
-<p align="center">
-  <em>AI/ML Enthusiast | Full-Stack Developer | Open Source Contributor</em>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Suhani+Gupta;AI+%26+ML+Explorer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Full-stack+Dev+%7C+Open+Source+%F0%9F%92%BB;Hackathon+Finalist+%7C+Tech+Lover" alt="Typing Header">
+</h1>
 
 ---
 
-### 🌟 About Me
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
-- 🌱 Currently diving deep into **AI/ML**, **Full-stack development** & **Open Source**
-- 💻 Projects: 
-  - 🔹 [SmartSip](#)
-  - 🔹 [AcademiGo](#)
-  - 🔹 [Track360](#)
-- 🏆 Hackathon Finalist: Hack KRMU, Hackemon, Geekathon, Code-E-Manipal  
+### 🚀 About Me
+
+- 🌱 Diving into **AI/ML**, **Full-stack Development**, and **Open Source**
+- 💡 Passionate about solving real-world problems through tech
+- 💼 Projects: [SmartSip](#), [AcademiGo](#), [Track360](#)
+- 🏆 Finalist @ Hack KRMU, Hackemon, Geekathon, Code-E-Manipal  
 - 🥇 Winner @ Nexify (Sushant University)
-- 📬 Reach me at: [suhanigupta.tech](http://suhanigupta.tech)
+- 🌐 Portfolio: [suhanigupta.tech](http://suhanigupta.tech)
+
+  </td>
+  <td width="40%" align="center">
+    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b0d6c1f08ab7d65f7197.gif" width="90%" />
+  </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,tailwind,html,css,figma,mongodb,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,firebase,flutter,figma,vscode,git,github" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="mailto:guptasuhanirwr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="http://suhanigupta.tech/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/suhanigupta-tech/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Suhaniyaarrr"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Suhaniyaarrr&show_icons=true&theme=gruvbox" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suhaniyaarrr&theme=gruvbox" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhaniyaarrr&layout=compact&theme=gruvbox" height="165"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 🔥 Highlighted Projects
+
+| 💡 Project | 🔍 Description | 🛠 Stack |
+|-----------|----------------|---------|
+| **SmartSip** | Smart bottle with hydration tracking | Arduino, Firebase, React |
+| **AcademiGo** | College transport app | Flutter, Firebase, Figma |
+| **Track360** | Urban issue detection platform | MERN, OpenCV, ML |
+
+---
+
+### ✨ Fun Facts
+
+- ☕ Fueled by **coffee & curiosity**
+- 📸 Love **tech + nature photography**
+- 🎧 Code with **ambient & lofi music**
+- 🧠 Constantly exploring cool tools, ideas & APIs
+
+---
+
+### 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suhaniyaarrr&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhaniyaarrr&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Suhaniyaarrr&theme=tokyonight&hide_border=true" height="150"/>
+  <a href="mailto:guptasuhanirwr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/suhanigupta-tech/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="http://suhanigupta.tech/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://github.com/Suhaniyaarrr"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-### ✨ Fun Fact
-
-> 🎨 I enjoy designing in Figma, writing poetry in my free time, and exploring tech that solves real problems.
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+</div>
