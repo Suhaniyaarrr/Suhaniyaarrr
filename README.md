@@ -1,10 +1,11 @@
 <!-- HEADER with banner -->
 <p align="center">
+  <!-- Replace the below URL with your actual banner hosted in the repo or on imgur -->
   <img src="https://raw.githubusercontent.com/Suhaniyaarrr/Suhaniyaarrr/main/assets/banner.png" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Suhani+Gupta;AI+%26+ML+Explorer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Full-stack+Dev+%7C+Open+Source+%F0%9F%92%BB;Hackathon+Finalist+%7C+Tech+Lover" alt="Typing Header">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Suhani+Gupta;AI+%26+ML+Explorer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Full-stack+Dev+%7C+Open+Source+%F0%9F%92%BB;Hackathon+Finalist+%7C+Tech+Lover" alt="Typing Header">
 </h1>
 
 ---
@@ -24,6 +25,7 @@
 
   </td>
   <td width="40%" align="center">
+    <!-- Working animated GIF -->
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" />
   </td>
   </tr>
