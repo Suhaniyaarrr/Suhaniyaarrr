@@ -1,6 +1,6 @@
 <!-- HEADER with banner -->
 <p align="center">
-  <img src="https://github.com/Suhaniyaarrr/Suhaniyaarrr/assets/your-banner-image" alt="banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Suhaniyaarrr/Suhaniyaarrr/main/assets/banner.png" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">
@@ -24,7 +24,7 @@
 
   </td>
   <td width="40%" align="center">
-    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b0d6c1f08ab7d65f7197.gif" width="90%" />
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" />
   </td>
   </tr>
 </table>
