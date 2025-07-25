@@ -18,7 +18,7 @@
 
 - 🌱 Diving into **AI/ML**, **Full-stack Development**, and **Open Source**
 - 💡 Passionate about solving real-world problems through tech
-- 💼 Projects: [SmartSip](#), [AcademiGo](#), [Track360](#)
+- 💼 Projects: [SmartSip](https://github.com/Suhaniyaarrr/SmartSip), [AcademiGo](https://github.com/Suhaniyaarrr/AcademiGo), [Track360](https://github.com/Suhaniyaarrr/Track360)
 - 🏆 Finalist @ Hack KRMU, Hackemon, Geekathon, Code-E-Manipal  
 - 🥇 Winner @ Nexify (Sushant University)
 - 🌐 Portfolio: [suhanigupta.tech](http://suhanigupta.tech)
