@@ -3,10 +3,10 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-- 🌱 I’m currently learning **AI/ML, Full-stack Dev, and Cloud Technologies**
+- 🌱 I’m currently learning **AI/ML and Full-stack Dev**
 - 🚀 Projects: [SmartSip](#), [AcademiGo](#), [Track360](#)
-- 🏆 Achievements: Finalist @ Hack KRMU, Top 5 @ Geekathon, Code-E-Manipal 🚀
-- 📫 Reach me at: **suhanigupta.tech** | **LinkedIn: [SuhaniGupta](https://linkedin.com/in/your-link)**
+- 🏆 Achievements: Finalist @ Hack KRMU, Code-E-Manipal, Hackemon, Geekathon | Winner @ Nexify (Sushant University) 🚀
+- 📫 Reach me at: **suhanigupta.tech** | **[LinkedIn](https://www.linkedin.com/in/suhanigupta-tech/)**
 
 ---
 
@@ -19,8 +19,8 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suhanigupta-tech&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=suhanigupta-tech&theme=radical" />
 </p>
 
 ---
@@ -37,14 +37,14 @@
 ### ✨ Fun Facts
 - 🔭 I love blending tech with real-world problems.
 - ☕ I run on coffee and curiosity.
-- 🎨 Hobby: UI/UX design & tech blogging.
+- 🎨 Hobbies: Tech research, exploring music & ambient coding playlists, and capturing tech + nature moments through photography.
 
 ---
 
 ### 📫 Let's Connect!
 <p align="left">
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:guptasuhanirwr@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/suhanigupta-tech/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://suhanigupta.tech"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=web&logoColor=white" /></a>
 </p>
 
